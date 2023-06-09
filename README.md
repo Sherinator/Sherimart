@@ -5,7 +5,7 @@ SheriMart is a fully responsive ecommerce website, maximum compatiblities in all
 ## Demo
 
 ![SheriMart Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
-![SheriMart Mobile Demo](./website-demo-image/mobile.jpg"Mobile Demo")
+![SheriMart Mobile Demo](./website-demo-image/mobile.jpg "Mobile Demo")
 
 ## Contact
 
